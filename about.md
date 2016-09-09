@@ -4,15 +4,15 @@ title: About
 ---
 
 <p class="message">
-  Hey there! Welcome to the India.AI initiative. Check out our upcoming meeting, join us and contribute.
+  Hey there! Welcome to the IndiaAI initiative. Check out our upcoming meeting, join us and contribute.
 </p>
 
-India.AI is an open community initiative here to propelling the advancement and adoption of AI with special focus but not limited to Deep Learning and its derivatives. 
+IndiaAI is an open community initiative here to propelling the advancement and adoption of AI with special focus but not limited to Deep Learning and its derivatives. 
 
-Building great AI tools for tomorrow using today's technology requires *entrepreneurs, developers, students, academicians, research scientists, investors, and just about anyone who is interested in Deep Learning* to come together as a community to meet, share and hack. The India.AI initiative will serve to enable this purpose.
+Building great AI tools for tomorrow using today's technology requires *entrepreneurs, developers, students, academicians, research scientists, investors, and just about anyone who is interested in Deep Learning* to come together as a community to meet, share and hack. The IndiaAI initiative will serve to enable this purpose.
 
 
-India.AI communitiess are currently active in the following locations:
+IndiaAI communitiess are currently active in the following locations:
 
 * [Deep Learning Bangalore (DLBLR)](http://www.meetup.com/Deep-Learning-Bangalore/)
 * [Deep Learning Bombay (DLBOM)](http://www.meetup.com/Deep-Learning-Mumbai/)
@@ -25,7 +25,7 @@ We have a culture code. #LikeNoOther #AdvanceAI #AmazingCommunity
 
 All chapters subscribe this culture code to maintain unreasonable standards of community ethics.
 
-India.AI is leveraging the collective power of the tech community as a force for getting amazing things done using AI.
+IndiaAI is leveraging the collective power of the tech community as a force for getting amazing things done using AI.
 
 Have questions or suggestions? Feel free to [get in touch](mailto:deeplearningblr@gmail.com) or [ask us on Twitter](https://twitter.com/deeplearningblr). We are on Slack! Get your invite [here](https://dlblr.typeform.com/to/pQpleB) and join the discussion.
 
