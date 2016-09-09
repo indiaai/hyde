@@ -4,27 +4,30 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! Welcome to the India.AI initiative. Check out our upcoming meeting, join us and contribute.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+India.AI is an open community initiative here to propelling the advancement and adoption of AI with special focus but not limited to Deep Learning and its derivatives. 
 
-There are currently two themes built on Poole:
+Building great AI tools for tomorrow using today's technology requires *entrepreneurs, developers, students, academicians, research scientists, investors, and just about anyone who is interested in Deep Learning* to come together as a community to meet, share and hack. The India.AI initiative will serve to enable this purpose.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+India.AI communitiess are currently active in the following locations:
 
-## Setup
+* [Deep Learning Bangalore (DLBLR)](http://www.meetup.com/Deep-Learning-Bangalore/)
+* [Deep Learning Bombay (DLBOM)](http://www.meetup.com/Deep-Learning-Mumbai/)
+* [Deep Learning Chennai (DLMAS)](http://www.meetup.com/Deep-Learning-Chennai/)
+* [Deep Learning Delhi (DLDEL)](http://www.meetup.com/Deep-Learning-Delhi/)
+* [Deep Learning Hyderabad (DLHYD)](http://www.meetup.com/Deep-Learning-Hyderabad/)
 
-Some fun facts about the setup of this project include:
+We have a culture code. #LikeNoOther #AdvanceAI #AmazingCommunity
+<iframe src="https://docs.google.com/presentation/d/1DpsMbnLCOlHvB7UQcHp2HtsR6liiaTcziqcx6O1bhTg/embed?start=false&loop=false&delayms=10000" frameborder="0" width="600" height="369" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+All chapters subscribe this culture code to maintain unreasonable standards of community ethics.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+India.AI is leveraging the collective power of the tech community as a force for getting amazing things done using AI.
 
-Thanks for reading!
+Have questions or suggestions? Feel free to [get in touch](mailto:deeplearningblr@gmail.com) or [ask us on Twitter](https://twitter.com/deeplearningblr). We are on Slack! Get your invite [here](https://dlblr.typeform.com/to/pQpleB) and join the discussion.
+
+<!-- # Team
+- [Mukundhan Srinivasan](https://in.linkedin.com/in/mukundhansrinivasan), Founder, India.AI initiative -->
